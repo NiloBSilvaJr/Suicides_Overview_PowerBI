@@ -1,4 +1,4 @@
-# Suicedes_Overview_PowerBI
+# Suicedes Overview PowerBI
 
 Curso: **Diversidade Tech by Ada & Suzano**
 
@@ -6,8 +6,7 @@ Módulo: **DS-NA-001 VISUALIZAÇÃO DE DADOS COM POWER BI**
 
 Facilitador: **Tiago Dias**
 
-Projeto final do módulo de Visualização de Dados. Dashboard analisando uma base de dados sobre casos de suicídio no mundo
-
+# Projeto final do módulo
 
 ## Requisitos
 Proposta de Visualização de Dados utilizando o Power BI com dados do Kaggle.
@@ -31,9 +30,9 @@ Criar um repositório no Github, e enviar o link público no forms de envio de a
 Atividade realizada em parceria com Alecsander Guimarães Rodrigues e Rafael Alves Dumer
 
 ## Dashboard
-![Dash](https://github.com/NiloBSilvaJr/GA_PowerBI/blob/main/Capa_GA.png)
-![Overview](https://github.com/NiloBSilvaJr/GA_PowerBI/blob/main/Overview_GA.png)
-![Sources](https://github.com/NiloBSilvaJr/GA_PowerBI/blob/main/Sources_GA.png)
-![Pages](https://github.com/NiloBSilvaJr/GA_PowerBI/blob/main/Pages_GA.png)
-![Devices](https://github.com/NiloBSilvaJr/GA_PowerBI/blob/main/Devices_GA.png)
-![Locations](https://github.com/NiloBSilvaJr/GA_PowerBI/blob/main/Locations_GA.png)
+![Home](https://github.com/NiloBSilvaJr/Suicedes_Overview_PowerBI/blob/main/Tela_Home.png)
+![Dashboard](https://github.com/NiloBSilvaJr/Suicedes_Overview_PowerBI/blob/main/Tela_Dashboard.png)
+![Idade](https://github.com/NiloBSilvaJr/Suicedes_Overview_PowerBI/blob/main/Tela_Faixa_Etária.png)
+![Geração](https://github.com/NiloBSilvaJr/Suicedes_Overview_PowerBI/blob/main/Tela_Gerações.png)
+![IDH_PIB](https://github.com/NiloBSilvaJr/Suicedes_Overview_PowerBI/blob/main/Tela_IDH_PIB.png)
+![Loc_Geo](https://github.com/NiloBSilvaJr/Suicedes_Overview_PowerBI/blob/main/Tela_Loc_Geo.png)
