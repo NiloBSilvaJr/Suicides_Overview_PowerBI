@@ -29,6 +29,9 @@ Criar um repositório no Github, e enviar o link público no forms de envio de a
 ## Colaboração
 Atividade realizada em parceria com Alecsander Guimarães Rodrigues e Rafael Alves Dumer
 
+## Hipoteses
+![Hipoteses](https://github.com/NiloBSilvaJr/Suicedes_Overview_PowerBI/blob/main/Capa.png)
+
 ## Dashboard
 ![Home](https://github.com/NiloBSilvaJr/Suicedes_Overview_PowerBI/blob/main/Tela_Home.png)
 ![Dashboard](https://github.com/NiloBSilvaJr/Suicedes_Overview_PowerBI/blob/main/Tela_Dashboard.png)
