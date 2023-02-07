@@ -1,4 +1,4 @@
-# Suicedes Overview PowerBI
+# Suicides Overview PowerBI
 
 Curso: **Diversidade Tech by Ada & Suzano**
 
